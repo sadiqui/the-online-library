@@ -1,0 +1,4 @@
+/database
+/library/config/.env
+/vendor
+/composer.json
